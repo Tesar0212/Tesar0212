@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Tesar0212
-- 👀 I’m interested in front-end
-- 🌱 I'm currently learning React.
-- 💞️ I’m looking for a long term collaboration
 - 📫 How to reach me tesar0212@mail.ru
 
 <!---
